@@ -1,5 +1,4 @@
-
-<h2 align="center">Under Construction Website Template</h2>
+# Under Construction Website Template
 
   ![Preview Img](preview.png)
 

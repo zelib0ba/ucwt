@@ -1,3 +1,3 @@
 # Under Construction Website Template
 
-  ![Preview Img](preview.png)
+![Preview Img](preview.png)
